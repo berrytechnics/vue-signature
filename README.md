@@ -1,6 +1,7 @@
 # vue-signature
 
 > A electronic signature component by Vue.js
+
 > Forked from https://github.com/WangShayne/vue-signature
 
 ## Changes from original
