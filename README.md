@@ -36,7 +36,7 @@
 | isEmpty           |                                   			| Returns true if canvas is empty, otherwise returns false |
 | undo             |                                   			| remove the last dot or line |
 | addWaterMark      |           {} // check Usage addWaterMark    | addWaterMark
-| fromDataURL      |          (url)    | Draws signature image from data URL.
+| load      |          (url)    | Draws signature image from data URL.
 
 
 ## Usage
